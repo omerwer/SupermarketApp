@@ -2,21 +2,21 @@
 ## An Application created to make a more time-saving supermarket shopping experience 
 
 
-## Table of contents
+# Table of contents
 * [General info](#general-info)
 * [Demo](#demo)
 * [Technologies](#technologies)
 
-## General-Info
+# General-Info
 This project was made as a part of a mini-project course (Mini Project in stochastic optimization) to help improve the exsiting system of supermarket lines. The idea was to create a application that will decide for the customer\user at which checkout line he will arrive to the register in the fastest time. 
 
-## Demo: 
+# Demo: 
 ![alt text](https://github.com/omerwer/SupermarketApp/blob/master/Demo.gif "Demo of app run")
 
-## Technologies
-# Server side: 
+# Technologies
+## Server side: 
 Javascript, Node.js, Express. 
-# Client sode: 
+## Client sode: 
 Android-studio (Java).
 
 ## Author
