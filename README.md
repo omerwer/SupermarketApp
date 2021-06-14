@@ -10,11 +10,9 @@
 ## General-Info
 This project was made as a part of a mini-project course (Mini Project in stochastic optimization) to help improve the exsiting system of supermarket lines. The idea was to create a application that will decide for the customer\user at which checkout line he will arrive to the register in the fastest time. 
 
-## Live Demo: https://yy3p0.csb.app/
-Just enter the link above and enter a disease name. A network graph will show up. All proteins that the disease affect them are linked to the disease, and each protein is linked to all availbe drugs. 
+## Live Demo: 
 
-![](https://media.giphy.com/media/SjcGbykvoufYJBXWOf/giphy.gif) 
-![](https://media.giphy.com/media/52RgDLV0TRm1S93L9a/giphy.gif)
+
 
 ## Technologies
 D3js, React, Bootsrap 4, JS, Python-pandas.
