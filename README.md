@@ -14,7 +14,8 @@ This project was made as a part of a mini-project course (Mini Project in stocha
 
 
 ## Technologies
-Node.js, Express, Android-studio (Java).
+Server side: Node.js, Express. 
+Client sode: Android-studio (Java).
 
 ## Author
  * Omer Wertheimer, omer.wertheimer@gmail.com
