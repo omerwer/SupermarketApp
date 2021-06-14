@@ -11,7 +11,7 @@
 This project was made as a part of a mini-project course (Mini Project in stochastic optimization) to help improve the exsiting system of supermarket lines. The idea was to create a application that will decide for the customer\user at which checkout line he will arrive to the register in the fastest time. 
 
 ## Demo: 
-![alt text](https://github.com/omerwer/SupermarketApp/edit/master/SupermarketApp/Demo.gif "Demo of app run")
+![alt text](https://github.com/omerwer/SupermarketApp/blob/master/Demo.gif "Demo of app run")
 
 ## Technologies
 Server side: Node.js, Express. 
