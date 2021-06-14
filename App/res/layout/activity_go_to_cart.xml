@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".GoToCart">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Your Cart Value"
+        android:textAllCaps="true"
+        android:textSize="35sp"
+        android:layout_marginVertical="25dp"
+        android:textColor="#212121"
+        />
+    <TextView
+        android:id="@+id/final_result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="50sp"
+        android:text="0"
+        />
+    <Button
+        android:id="@+id/checkout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:layout_marginHorizontal="50dp"
+        android:text="Checkout"
+        android:background="@drawable/edit_bg"
+        android:textColor="#212121"
+        />
+
+</LinearLayout>
