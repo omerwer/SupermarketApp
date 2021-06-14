@@ -14,9 +14,10 @@ This project was made as a part of a mini-project course (Mini Project in stocha
 ![alt text](https://github.com/omerwer/SupermarketApp/blob/master/Demo.gif "Demo of app run")
 
 ## Technologies
-Server side: Javascript, Node.js, Express. 
-##
-Client sode: Android-studio (Java).
+# Server side: 
+Javascript, Node.js, Express. 
+# Client sode: 
+Android-studio (Java).
 
 ## Author
  * Omer Wertheimer, omer.wertheimer@gmail.com
