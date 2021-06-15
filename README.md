@@ -19,8 +19,8 @@ Javascript, Node.js, Express.
 ## Client sode: 
 Android-studio (Java).
 
-## Author
+## Authors
  * Omer Wertheimer, omer.wertheimer@gmail.com
- * Nadav Shaked
- * Barak Hadad
- * Kim Teldan
+ * Nadav Shaked, nadav0@post.bgu.ac.il
+ * Barak Hadad, hadba@post.bgu.ac.il
+ * Kim Teldan, kimono4@gmail.com
