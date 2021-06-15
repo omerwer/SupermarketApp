@@ -1,5 +1,5 @@
 # SupermarketApp
-## An Application created to make a more time-saving supermarket shopping experience 
+## An application created to make a more time-saving supermarket shopping experience 
 
 
 # Table of contents
