@@ -21,3 +21,6 @@ Android-studio (Java).
 
 ## Author
  * Omer Wertheimer, omer.wertheimer@gmail.com
+ * Nadav Shaked
+ * Barak Hadad
+ * Kim Teldan
